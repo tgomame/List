@@ -1,0 +1,111 @@
+# LIST.
+# Copyright (C) 2023
+# This file is distributed under the same license as the list package.
+# TIAGO MENDES <tgomame@gmail.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: list\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-30 09:19-0300\n"
+"Last-Translator: Tiago Mendes <tgomame@gmail.com>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/task.py:100
+msgid "Completed:"
+msgstr "Finalizada:"
+
+#: src/res/ui/window.ui:25
+msgid "Main menu"
+msgstr "Menu principal
+
+#: src/res/ui/window.ui:42
+msgid "Add new task"
+msgstr "Adicionar nova tarefa"
+
+#: src/res/ui/window.ui:69
+msgid "Preferences"
+msgstr "Preferências"
+
+#: src/res/ui/window.ui:73
+msgid "About List"
+msgstr "Sobre List"
+
+#: src/res/ui/window.ui:77
+msgid "Quit"
+msgstr "Sair"
+
+#: src/res/ui/window.ui:89
+msgid "translator-credits"
+msgstr "Tiago Mendes <tgomame@gmail.com>"
+
+#: src/res/ui/preferences.ui:13
+msgid "Application theme"
+msgstr "Tema da aplicação"
+
+#: src/res/ui/preferences.ui:17
+msgid "System"
+msgstr "Sistema"
+
+#: src/res/ui/preferences.ui:30
+msgid "Light"
+msgstr "Claro"
+
+#: src/res/ui/preferences.ui:44
+msgid "Dark"
+msgstr "Escuro"
+
+#: src/res/ui/preferences.ui:60
+msgid "Tasks"
+msgstr "Tarefas"
+
+#: src/res/ui/preferences.ui:64
+msgid "Tasks expanded on startup"
+msgstr "Tarefas expandidas no início"
+
+#: src/res/ui/sub_task.ui:19 src/res/ui/task.ui:31
+msgid "Delete"
+msgstr "Excluir"
+
+#: src/res/ui/sub_task.ui:40 src/res/ui/task.ui:178
+msgid "Edit"
+msgstr "Editar"
+
+#: src/res/ui/sub_task.ui:49 src/res/ui/task.ui:190
+msgid "Mark as completed"
+msgstr "Marcar como finalizada"
+
+#: src/res/ui/sub_task.ui:82 src/res/ui/task.ui:222
+msgid "Move up"
+msgstr "Mover para cima"
+
+#: src/res/ui/sub_task.ui:90 src/res/ui/task.ui:230
+msgid "Move down"
+msgstr "Mover para baixo"
+
+#: src/res/ui/sub_task.ui:100 src/res/ui/task.ui:240
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/res/ui/task.ui:73
+msgid "Toggle sub-tasks"
+msgstr "Alternar subtarefas"
+
+#: src/res/ui/task.ui:83
+msgid "Accent color"
+msgstr "Cor preferida"
+
+#: src/res/ui/task.ui:101
+msgid "Clear style"
+msgstr "Limpar estilo"
+
+#: src/res/ui/task.ui:264
+msgid "Add new sub-task"
+msgstr "Adicionar nova subtarefa"
+
+#: src/res/ui/task.ui:277
+msgid "Delete completed sub-tasks"
+msgstr "Excluir as subtarefas finalizadas"
